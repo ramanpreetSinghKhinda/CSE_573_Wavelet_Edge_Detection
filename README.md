@@ -27,9 +27,9 @@ Literature Review
 ----
 Edge detection is a very prevalent problem in the field of image processing and has been researched a lot. Some edge detection techniques fall in the spatial domain edge detection like Canny and sobel. The other category is edge detection in the frequency domain. 
 
-Mallat and Zhong in their work[^1] proposed a dyadic wavelet and a corresponding wavelet transform. The idea was to detect edges in the wavelet domain by applying wavelet transform to the image in different scales. It was observed that the edge structures were visible in each sub-band but the noise levels decreased rapidly along these scales.
+Mallat and Zhong in their work[1] proposed a dyadic wavelet and a corresponding wavelet transform. The idea was to detect edges in the wavelet domain by applying wavelet transform to the image in different scales. It was observed that the edge structures were visible in each sub-band but the noise levels decreased rapidly along these scales.
 
-Xu et al[^2] presented a method in which they enhanced significant structures by multiplying the adjacent DWT levels and Sadler and Swami[^3] analyzed the multi-scale product in step detection and estimation . The paper[^4] we are following does something along these lines; we make a multi-scale edge detector by multiplying adjacent sub-bands and making edge maps at different scales and combining them in the end. Edges are determined as local maxima in the product function after thresholding.
+Xu et al[2] presented a method in which they enhanced significant structures by multiplying the adjacent DWT levels and Sadler and Swami[3] analyzed the multi-scale product in step detection and estimation . The paper[4] we are following does something along these lines; we make a multi-scale edge detector by multiplying adjacent sub-bands and making edge maps at different scales and combining them in the end. Edges are determined as local maxima in the product function after thresholding.
 
 The pipeline majorly includes four image processing techniques: convolution of image with a filter as the wavelets used are essentially filters to be convoluted with the images, downsampling the image to half its size by removing alternate rows and columns from the image, element wise multiplication of image arrays and up-sampling the images to twice their sizes by using some kind of interpolation techniques. 
 
@@ -119,10 +119,10 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 Bibliography
 -------
-[^1]: S. Mallat and S. Zhone. “Characterization of signals from II multiscale edges, ” IEEE Trans. PAMI, vol. 14, pp. 710732, 1992.
+[1]: S. Mallat and S. Zhone. “Characterization of signals from II multiscale edges, ” IEEE Trans. PAMI, vol. 14, pp. 710732, 1992.
 
-[^2]: Y. Xu et a/, “Wavelet transform domain filters: a spatially selective noise filtration technique, ” IEEE Trans. Image Processing, vol. 3, pp. 747758,1994.
+[2]: Y. Xu et a/, “Wavelet transform domain filters: a spatially selective noise filtration technique, ” IEEE Trans. Image Processing, vol. 3, pp. 747758,1994.
 
-[^3]: Brain M. Sadler and A. Swami, “Analysis of multiscale products for step detection and estimation, ” IEEE Trans. Information Theory. vol. 45.. D.D.. 10431051. 1999.
+[3]: Brain M. Sadler and A. Swami, “Analysis of multiscale products for step detection and estimation, ” IEEE Trans. Information Theory. vol. 45.. D.D.. 10431051. 1999.
 
-[^4]: L. Zhang and P. Bao, “Edge detection by scale multiplication in wavelet domain,” Pattern Recognition Letters, Vol. 23, No.14, pp. 17711784, December 2002.
+[4]: L. Zhang and P. Bao, “Edge detection by scale multiplication in wavelet domain,” Pattern Recognition Letters, Vol. 23, No.14, pp. 17711784, December 2002.
