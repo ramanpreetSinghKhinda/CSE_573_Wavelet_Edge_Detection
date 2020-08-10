@@ -71,25 +71,22 @@ ii). We have implemented the code in python and used its [numpy](https://en.wiki
 Sample Results
 -----
 ### 1. Input Image
-<p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Lena.jpg)
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Lena.jpg" align=center>
 
 ### Output
-<p align="center">![Img_2](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Sample_Results/Lena_Final.png)
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Sample_Results/Lena_Final.png" align=center>
 
 ### 2. Input Image
-<p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Peppers.jpg)
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Peppers.jpg" align=center>
 
 ### Output
-<p align="center">![Img_2](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Sample_Results/Peppers_Final.png)
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Sample_Results/Peppers_Final.png" align=center>
 
 ### 3. Input Image
-<p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Carriage.jpg)
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Carriage.jpg" align=center>
 
 ### Output
-<p align="center">![Img_2](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Sample_Results/Carriage_Final.png)
-
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Sample_Results/Carriage_Final.png" align=center>
 
 Credits
 -------
