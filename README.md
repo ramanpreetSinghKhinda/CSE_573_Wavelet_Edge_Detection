@@ -1,8 +1,8 @@
 <p align="center">Computer Vision and Image Processing</br>Wavelet Edge Detection</br>CSE 573 - Fall 2015
-==========================================================================================
 
-<p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Resources/1.png)
+<img src="https://raw.githubusercontent.com/ramanpreet1990/CSE_573_Wavelet_Edge_Detection/master/Resources/1.png" align=center>
 
+----
 
 Goal
 ------
@@ -100,10 +100,7 @@ Contributors
 ---------
 [Apoorva Mittal](https://www.linkedin.com/in/apoorva-mittal-0b524357)
 
-
-Ramanpreet Singh Khinda (rkhinda@buffalo.edu)</br>
-[![website](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_website.png)](https://branded.me/ramanpreet1990)		[![googleplay](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_google_play.png)](https://play.google.com/store/apps/details?id=suny.buffalo.mis.research&hl=en)		[![twitter](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_twitter.png)](https://twitter.com/dk_sunny1)		[![linkedin](https://raw.githubusercontent.com/ramanpreet1990/CSE_586_Simplified_Amazon_Dynamo/master/Resources/ic_linkedin.png)](https://www.linkedin.com/in/ramanpreet1990)
-
+Ramanpreet Singh Khinda [<img src="https://github.com/ramanpreetSinghKhinda/CSE_535_Multilingual_Search_System/blob/master/Resources/linkedin.png" height="50" width="50">](https://www.linkedin.com/in/ramanpreetSinghKhinda)
 
 License
 ----------
